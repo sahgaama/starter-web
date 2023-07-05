@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Amar Sahgal  sahgalamar@gmail.com
 
 # THANKS
 

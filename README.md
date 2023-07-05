@@ -12,4 +12,4 @@ This is a simple web project, development can be on any web sever
 
 ### Copyright
 
-2023 Git.Training
+2023 Git.Adidas.Training

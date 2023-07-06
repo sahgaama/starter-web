@@ -16,4 +16,4 @@ please fork this repository and issue pull request for review.
 
 ### Copyright
 
-2023 Git.Adidas.Training
+2023 Git.Adidas.Training. All rights reserved.
